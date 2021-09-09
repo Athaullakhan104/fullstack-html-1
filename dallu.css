@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container{background-image:URL("https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2018/07/work-a-location-dps-1.jpg?fit=1500%2C1000&ssl=1");
+              height:100vh;
+			  background-size:cover;}
+			  
+.mainheading{text-align:center;
+             font-style:italic;
+			 font-size:65px;
+             color:orange;
+             margin:15px;
+			 text-decoration:underline;
+			 font-family:"lobster";}
+			 
+			 
+.bg-color{background-color:white;
+          color:black;
+          margin:15px;
+          padding:5px;
+		  border-radius:15px;
+		  border-width:15px;}
+		  
+.fav-card-image{width:120px;
+                height:140px;}
+		         
+.heading{font-family:"lobster";}
+.paragraph{color:green;}
+         
+         
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				 
